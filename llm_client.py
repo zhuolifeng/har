@@ -12,9 +12,9 @@ import time
 # ============================================================
 # 本地测试时，你可以修改这里接入你的 API
 # ============================================================
-BASE_URL = "http://your-endpoint/v1"   # 填入你的 API endpoint
-API_KEY  = "EMPTY"                     # 填入你的 API key
-MODEL    = "Qwen3-8B"           # 填入你的模型名
+BASE_URL = "https://api.siliconflow.cn/v1"
+API_KEY  = "sk-xjflhwbxvvpbbhjwcvjirhofqeopvboicwzzkbcmxsfutgra"
+MODEL    = "Qwen/Qwen3-8B"
 
 # ============================================================
 # 以下代码无需修改
